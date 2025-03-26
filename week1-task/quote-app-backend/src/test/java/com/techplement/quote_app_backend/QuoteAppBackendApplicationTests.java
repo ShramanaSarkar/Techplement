@@ -1,10 +1,10 @@
-package com.quote_of_the_day_backend.Quote_of_the_day;
+package com.techplement.quote_app_backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class QuoteOfTheDayApplicationTests {
+class QuoteAppBackendApplicationTests {
 
 	@Test
 	void contextLoads() {
